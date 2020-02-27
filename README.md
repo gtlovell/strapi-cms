@@ -1,3 +1,3 @@
 # Strapi application
 
-A quick description of your strapi application
+Beginning blog boilerplate for personal website
